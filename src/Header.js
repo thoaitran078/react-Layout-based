@@ -40,7 +40,7 @@ const CustomHeader = () => {
     <Header>
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]} style={{ float: "left" }}>
         <Menu.Item key="1">Trang chủ</Menu.Item>
-        <Menu.Item key="2">Giới thiệu</Menu.Item>
+        <Menu.Item key="2">Điểm danh</Menu.Item>
         <Menu.Item key="3">Thông tin</Menu.Item>
       </Menu>
       <div style={{ float: "right" }}>
